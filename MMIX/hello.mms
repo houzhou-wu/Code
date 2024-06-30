@@ -1,4 +1,5 @@
 %		Hello, World!
+
 		LOC		Data_Segment
 		GREG	@
 Message	BYTE	"Hello, World!",10,0
