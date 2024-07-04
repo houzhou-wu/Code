@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\Apps\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1488546183"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -WG -l -vewnhibq -FiD:\Documents\Code\4Pascal\hello\lib\x86_64-win64 -FuC:\Apps\lazarus\lcl\units\x86_64-win64\win32 -FuC:\Apps\lazarus\lcl\units\x86_64-win64 -FuC:\Apps\lazarus\components\freetype\lib\x86_64-win64 -FuC:\Apps\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\Apps\lazarus\packager\units\x86_64-win64 -FuD:\Documents\Code\4Pascal\hello\ -FUD:\Documents\Code\4Pascal\hello\lib\x86_64-win64\ -FED:\Documents\Code\4Pascal\hello\ -oD:\Documents\Code\4Pascal\hello\hello.exe -dLCL -dLCLwin32 hello.lpr"/>
+</CONFIG>
